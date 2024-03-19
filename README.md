@@ -1,6 +1,8 @@
 # Amazon Web Services (AWS) Guide
 
-This guide provides instructions and best practices for deploying and managing various AWS services for web hosting, automation, scalability, and monitoring.
+This guide provides instructions and best practices for various AWS services for web hosting, automation, scalability, and monitoring. The Notes has been prepared during workshop organised in PDEU.
+
+<a href="https://shaharsh624.github.io/Amazon-Web-Services-AWS-/Notes/AWS%20-%20Amazon%20Web%20Services%2082ebdc4120ea4fa39413571772cb2e6d"><button type="button">See Complete Tutorial</button></a>
 
 ## AWS EC2 - Elastic Compute 2
 
